@@ -15,7 +15,7 @@ public class Principal {
 		IEquipo y = j;
 		
 		Messi messi = new Messi();
-		messi.setEquipo(j);
+		messi.setEquipo(b);
 		messi.setNacionalidad("Argentina");
 		
 		System.out.println(messi.toString());
